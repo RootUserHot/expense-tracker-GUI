@@ -1,6 +1,3 @@
-'''
-github - https://github.com/RootUserHot
-'''
 import sys
 sys.path.append("../Lib/classes/")
 from widget import *
